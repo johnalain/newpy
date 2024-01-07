@@ -7,7 +7,12 @@ class Human:
     else:
         print('error')
     
+# if u enter michel print welcome ir u print another name output error
 
+x = 3
+y = 7
+res = x+y
+print (res)
 
  
 
